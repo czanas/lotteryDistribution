@@ -1,0 +1,14 @@
+{
+  "name": "statlotto",
+  "version": "1.0.0",
+  "description": "Script does some stastical work to find out the distrubtion of tries for a particular lotto",
+  "main": "myRand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stats-lite": "^2.2.0"
+  }
+}
